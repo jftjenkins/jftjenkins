@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jftjenkins
+- 👋 Hi, I’m Joseph Jenkins-Baille
 - 👀 I’m interested in video games, music, and learning to code
 - 🌱 I’m currently learning Full Stack Development with Code Institute, hoping to specialise in Predictive Analytics
 - 📫 How to reach me: email - jft.jenkins@gmail.com
