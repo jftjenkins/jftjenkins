@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joseph Jenkins-Baille (@jftjenkins)
 - 👀 I’m interested in video games, music, and learning to code
 - 🌱 I’m currently learning Full Stack Development with Code Institute, hoping to specialise in Predictive Analytics
-- 📫 How to reach me: email - jft.jenkins@gmail.com
+- 📫 How to reach me: email - jft.jenkins@gmail.com    LinkedIn: https://www.linkedin.com/in/joseph-jenkins-baille-637a55205
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I wrote my Uni disertation on the History of Legend of Zelda Video Game Music
 
